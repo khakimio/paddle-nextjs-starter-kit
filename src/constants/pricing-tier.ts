@@ -25,7 +25,7 @@ export const PricingTier: Tier[] = [
     description: 'Enhanced design tools for scaling teams who need more flexibility.',
     features: ['Integrations', 'Unlimited workspaces', 'Advanced editing tools', 'Everything in Starter'],
     featured: true,
-    priceId: { month: 'pri_01hsxycme6m95sejkz7sbz5e9g', year: 'pri_01hsxyeb2bmrg618bzwcwvdd6q' },
+    priceId: { month: 'pri_01k3e95q91dfagxdh1a0fb2thk', year: 'pri_01k3e9472hyt6jrwg0tfz4cbtn' },
   },
   {
     name: 'Advanced',
